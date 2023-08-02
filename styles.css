@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    text-align: center;
+  }
+  .bold{
+    font-weight: bold;
+  }
+  li {
+    text-align: left
+  }
+  #image{
+    max-width: 100%;
+    hight: auto;
+  }
+  img{
+    display: block;
+  
+  }
